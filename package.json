@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "gl-matrix": "^3.4.3",
+    "primitive-cube": "^2.0.1",
+    "regl": "^2.1.0",
+    "regl-camera": "^2.1.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.0"
+  }
+}
